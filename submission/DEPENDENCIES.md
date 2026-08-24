@@ -8,7 +8,7 @@ one deliberately.
 
 | Library | Version | Why |
 |---|---|---|
-| *example* | *2.1.0* | *replace this row* |
+| none | none | I did not add any extra dependencies. My environment did not have pandas or other libraries installed, and due to time constraints I proceeded without modifying requirements-extra.txt. |
 
 ## Anything you considered and rejected
 
