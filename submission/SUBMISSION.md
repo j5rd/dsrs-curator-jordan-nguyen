@@ -45,12 +45,15 @@ Mark what you completed. Partial work still gets read.
 
 ## Anything we should know
 
-Trade-offs you made, things you would do with more time, parts you are unsure about.
-Being candid here does not count against you.
+I made several trade‑offs due to time constraints and environment issues. My Python environment did not have pandas or other dependencies installed, and I wasn’t able to modify requirements-extra.txt or rebuild the environment before the deadline. I kept working through errors rather than stopping, because Curator emphasizes showing the pipeline structure even when parts fail.
+
+I attempted multiple rounds of debugging — fixing paths, adjusting PYTHONPATH, and re‑running scripts — but ultimately the dataset builder failed due to missing dependencies, the model script produced no output, and the agent script was missing. I documented these failures clearly and continued with the cold‑start run as required.
+
+With more time, I would set up a clean environment, install the necessary libraries, rebuild the dataset builder, implement a functional model, and restore the agent script. I understand the pipeline structure, but several components remained incomplete due to the deadline.
 
 ## Video sharing
 
 We may share your video publicly to show what candidates built. If you would rather we
 did not, write "do not share" here:
 
-- **Preference:**
+- **Preference: do not share**
