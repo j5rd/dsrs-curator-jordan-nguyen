@@ -15,7 +15,7 @@ a question.
 Upload to Illinois MediaSpace: https://mediaspace.illinois.edu/upload/media
 Set visibility to **Unlisted**.
 
-- **Link:**
+- **Link: https://mediaspace.illinois.edu/media/t/1_04qv5pnd**
 
 ## Chapters attempted
 
