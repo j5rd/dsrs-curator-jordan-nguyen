@@ -21,11 +21,11 @@ Set visibility to **Unlisted**.
 
 Mark what you completed. Partial work still gets read.
 
-- [✔️] 1 · Source
-- [✔️] 2 · Interrogate
-- [✔️] 3 · Structure
-- [✔️] 4 · Serve
-- [✔️] 5 · Show
+- [x] 1 · Source
+- [x] 2 · Interrogate
+- [x] 3 · Structure
+- [x] 4 · Serve
+- [x] 5 · Show
 - [ ] Bonus 1 — Notice attribution
 - [ ] Bonus 2 — CUSIP validation
 
