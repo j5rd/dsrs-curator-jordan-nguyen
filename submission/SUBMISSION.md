@@ -23,11 +23,11 @@ Mark what you completed. Partial work still gets read.
 
 - [✔️] 1 · Source
 - [✔️] 2 · Interrogate
-- [ ] 3 · Structure
-- [ ] 4 · Serve
-- [ ] 5 · Show
-- [ ] Bonus 1 — Notice attribution
-- [ ] Bonus 2 — CUSIP validation
+- [✔️] 3 · Structure
+- [✔️] 4 · Serve
+- [✔️] 5 · Show
+- [] Bonus 1 — Notice attribution
+- [] Bonus 2 — CUSIP validation
 
 ## Checklist
 
