@@ -26,8 +26,8 @@ Mark what you completed. Partial work still gets read.
 - [✔️] 3 · Structure
 - [✔️] 4 · Serve
 - [✔️] 5 · Show
-[ ] Bonus 1 — Notice attribution
-[ ] Bonus 2 — CUSIP validation
+- [ ] Bonus 1 — Notice attribution
+- [ ] Bonus 2 — CUSIP validation
 
 ## Checklist
 
