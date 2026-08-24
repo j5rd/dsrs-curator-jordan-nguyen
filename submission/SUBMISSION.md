@@ -9,7 +9,7 @@ Fill this in and commit it. A submission missing the video link is incomplete.
 
 ## Video
 
-Under 3 minutes, narrated, showing a cold-start pipeline run and your agent answering
+Under 3 minutes, narrated, showing a cold-start pipeline run and your agent answering 
 a question.
 
 Upload to Illinois MediaSpace: https://mediaspace.illinois.edu/upload/media
@@ -21,8 +21,8 @@ Set visibility to **Unlisted**.
 
 Mark what you completed. Partial work still gets read.
 
-- [ ] 1 · Source
-- [ ] 2 · Interrogate
+- [✔️] 1 · Source
+- [✔️] 2 · Interrogate
 - [ ] 3 · Structure
 - [ ] 4 · Serve
 - [ ] 5 · Show
