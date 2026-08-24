@@ -4,8 +4,8 @@ Fill this in and commit it. A submission missing the video link is incomplete.
 
 ## Who
 
-- **Name:**
-- **NetID:**
+- **Name: Jordan Nguyen**
+- **NetID: jordann8**
 
 ## Video
 
