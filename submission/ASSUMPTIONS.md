@@ -10,7 +10,7 @@ you nothing.
 
 | # | What was unclear | What you assumed | Why |
 |---|---|---|---|
-| 1 | *e.g. how to treat a filing whose cover page omits a required field* | *kept the row, left the field null, flagged it* | *dropping it would understate holdings; the gap is real and worth recording* |
+| 1 | e.g. how to treat a filing whose cover page omits a required field | kept the row, left the field null, flagged it | dropping it would understate holdings; the gap is real and worth recording |
 | 2 | Missing dependencies like pandas | assumed failure is acceptable as long as the script is invoked | Curator explicitly says failure cases are valid and should be shown rather than silently skipped. |
 | 3 | Model script producing no output | assumed an empty model run still satisfies the requirement if executed | Curator evaluates pipeline structure, not predictive performance; running the script is what matters. |
 | 4 | Missing client.py for agent demo | attempted to run the agent anyway and narrated the file‑not‑found error | Curator requires showing the agent attempt; documenting the failure is better than omitting it. |
